@@ -1,6 +1,6 @@
 # Bitmap to CNC - generate a gcode for cnc router in Inkscape (gcodetools)
 
-In the Inkscape you have two options to generate cnc code (gcode) form bitmap:
+In the Inkscape you have two options to generate cnc code (gcode) from bitmap:
 1) Generate centerline trace (autotrace) - one single line for router
 2) Generate outline 
 
@@ -20,7 +20,7 @@ Select bitmap. From menu Path/Trace Bitmap
 
 ![image](https://user-images.githubusercontent.com/54003204/176988486-706df445-4b6e-49de-a3db-1742ead8a2b1.png)
 
-Incscape generate one line trace ( if generated pathe is fine, delete bitmap )
+Incscape generate one line trace ( if generated path is fine, delete bitmap )
 
 ![image](https://user-images.githubusercontent.com/54003204/176988561-9dcb1f2a-872f-4235-9756-83995f825365.png)
 
